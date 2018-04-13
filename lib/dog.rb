@@ -9,5 +9,5 @@ class Dog
     @@all.each do |pup|
       puts pup.name
     end
-  end 
+  end
 end
